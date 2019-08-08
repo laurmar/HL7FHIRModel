@@ -294,7 +294,7 @@ const ResourceListDescriptions= {
         child:{"basedOn":"Service Request", 
         "slot":"Slot",
         "reasonReference": "Observation", 
-        "Participant actor": "Patient or Practitioner or PractitionerRole or HealthcareService or Location"}
+        "participant actor": "Patient or Practitioner or PractitionerRole or HealthcareService or Location"}
     }
 };
 
